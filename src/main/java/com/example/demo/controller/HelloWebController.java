@@ -2,7 +2,11 @@ package com.example.demo.controller;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-
+/**
+* @GetMapping : Mapping URL Path
+* @Controller : Declaring Class as a Controller.
+* 
+*/
 @Controller
 public class HelloWebController {
 	@GetMapping("/web")
