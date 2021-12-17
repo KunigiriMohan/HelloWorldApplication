@@ -5,7 +5,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 /**
 * @GetMapping : Mapping URL Path
 * @Controller : Declaring Class as a Controller.
-* 
 */
 @Controller
 public class HelloWebController {
