@@ -16,3 +16,4 @@ public class HelloWebController {
 		return "message";
 	}
 }
+
